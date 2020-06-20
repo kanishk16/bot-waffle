@@ -1,28 +1,10 @@
 {
-  "files": [
-    "README.md"
-  ],
+  "files": ["README.md"],
   "imageSize": 100,
-  "commit": false,
+  "commit": false, 
   "contributorsPerLine": 7,
   "contributorsSortAlphabetically": false,
   "badgeTemplate": "[![All Contributors](https://img.shields.io/badge/all_contributors-<%= contributors.length %>-blue.svg?)](#contributors)",
-  "skipCi": true,
-  "contributors": [
-    {
-      "login": "kanishk16",
-      "name": "Kanishk Kalra",
-      "avatar_url": "https://avatars0.githubusercontent.com/u/36276423?v=4",
-      "profile": "https://github.com/kanishk16",
-      "contributions": [
-        "code",
-        "content",
-        "ideas"
-      ]
-    }
-  ],
-  "projectName": "bot-waffle",
-  "projectOwner": "kanishk16",
-  "repoType": "github",
-  "repoHost": "https://github.com"
+  "skipCi": "true",
+  "contributors": []
 }
